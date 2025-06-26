@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Tushar 👋</h1>
 
 <p align="center">
-  🚀 Web Dev in the making | ☕ Fuelled by caffeine & curiosity | 🎯 Always building, always learning
+  🚀 Web Dev in the making  | 🎯 Always building, always learning
 </p>
 
 ---
