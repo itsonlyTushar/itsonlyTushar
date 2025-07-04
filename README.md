@@ -62,4 +62,5 @@ Got an idea? Let's build it. Got a meme? Send it too.
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=itsonlyTushar&color=green)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=itsonlyTushar)
+
