@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=itsonlyTushar&color=green)
+
 <h1 align="center">Hey there, I'm Tushar 👋</h1>
 
 <p align="center">
