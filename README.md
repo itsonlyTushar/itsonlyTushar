@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=itsonlyTushar&color=green)
+
 
 <h1 align="center">Hey there, I'm Tushar 👋</h1>
 
@@ -61,3 +61,5 @@ Got an idea? Let's build it. Got a meme? Send it too.
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=itsonlyTushar&color=green)
