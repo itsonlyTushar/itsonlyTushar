@@ -36,7 +36,7 @@ Here are a few things I’ve built recently that I’m proud of:
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsonlyTushar&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><br/><br/>
+ <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=itsonlyTushar&show_icons=true&theme=react&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsonlyTushar&layout=compact&theme=react&hide_border=true" />
 </div>
