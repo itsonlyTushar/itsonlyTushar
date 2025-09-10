@@ -33,6 +33,9 @@ Here are a few things I’ve built recently that I’m proud of:
 - [📍 Open Radar](https://github.com/itsonlyTushar/open-radar)  
   Track and share your project launches like a radar. Built with Firebase + React.
 
+- [📍 Order Ease](https://orderease.food)  
+  OrderEase – A QR-based digital food ordering system for restaurants. Built with React, Redux, and Firebase to let customers scan, browse menus, and place orders seamlessly from their phones.
+
 ---
 
 <div align="center">
