@@ -24,13 +24,6 @@ Currently working with **React**, **TypeScript**, **Next.js**, **Tailwind CSS**,
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsonlyTushar&show_icons=true&theme=react&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsonlyTushar&layout=compact&theme=react&hide_border=true" />
-</div>
-
----
-
 ### 🌍 Connect
 
 <p align="left">
