@@ -1,69 +1,35 @@
-
-
-<h1 align="center">Hey there, I'm Tushar 👋</h1>
-
+<h1 align="center">Hey, I'm Tushar 👋</h1>
 <p align="center">
-  🚀 Web Dev in the making  | 🎯 Always building, always learning
+  Self-taught Frontend Developer &nbsp;·&nbsp; React · TypeScript · Next.js
 </p>
-
 ---
-
 ### About Me
-
-I'm a student developer with a passion for crafting clean, intuitive, and functional web apps.<br>
-Currently jamming with **React**, **JavaScript**, **Tailwind CSS**, **Material UI**, and **Firebase**.
-
-I enjoy translating ideas into beautiful, responsive interfaces – and breaking things along the way (intentionally... sometimes 😅).
-
-```js
-const life = () => {
-  return code + design + bugs + coffee;
-};
-```
-
+I'm a self-taught frontend developer passionate about building clean, minimal web applications that are both easy to use and nice to look at. I care a lot about the craft — readable code, thoughtful UI, and shipping things that actually work.
+Currently working with **React**, **TypeScript**, **Next.js**, **Tailwind CSS**, and **Firebase**.
 ---
-
-### 🚀 Featured Projects
-
-Here are a few things I’ve built recently that I’m proud of:
-
-- [🔧 Resume Builder](https://github.com/itsonlyTushar/Resume_Builder)  
-  Build and export a modern resume using React + Redux + Hooks.
-
-- [📍 Open Radar](https://github.com/itsonlyTushar/open-radar)  
-  Track and share your project launches like a radar. Built with Firebase + React.
-
-- [📍 Order Ease](https://orderease.food)  
-  OrderEase – A QR-based digital food ordering system for restaurants. Built with React, Redux, and Firebase to let customers scan, browse menus, and place orders seamlessly from their phones.
-
+### 🔨 Things I've Built
+- **[Fastmenu](https://fastmenu.it)** — QR-based food ordering system for restaurants. Started as a side project, a client found it on GitHub, bought it, and hired me to scale it — added table reservations, real-time table management, and Stripe Connect.
+- **[Open Radar](https://openradar.live)** · [repo](https://github.com/itsonlyTushar/open-radar) — Find beginner-friendly open-source repos and start contributing. Built for devs who want to get into open source but don't know where to start.
+- **[ResuMate](https://resumate.shop)** · [repo](https://github.com/itsonlyTushar/Resume_Builder) — Resume builder with live previews, customizable templates, and PDF export. Built with React + Redux + Appwrite.
 ---
-
 <div align="center">
- <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=itsonlyTushar&show_icons=true&theme=react&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsonlyTushar&layout=compact&theme=react&hide_border=true" />
 </div>
-
 ---
-
-### 🌍 Let’s Connect!
-
-Got an idea? Let's build it. Got a meme? Send it too.
-
+### 🌍 Connect
 <p align="left">
-  <a href="https://x.com/ts28_7">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/tushar_28.7/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://tusharsoni.site">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tushar-soni-b0426022b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-site-six-navy.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://x.com/ts28_7">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/tushar_28.7/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
 ![](https://komarev.com/ghpvc/?username=itsonlyTushar&color=gray)
-
