@@ -27,7 +27,7 @@ I'm a self-taught **Frontend Developer** passionate about building clean, minima
 
 ### 💻 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,firebase,supabase,redux,html,css,js,git,github,vscode,appwrite,figma" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,materialui,firebase,supabase,redux,html,css,js,git,github" alt="Tech Stack Icons" />
 </p>
 
 ---
