@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:0077B5&height=300&section=header&text=Hey,%20I'm%20Tushar&fontSize=70&fontAlignY=35&animation=fadeIn" alt="Tushar Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dartdvch1/image/upload/v1773758846/1_z5kom6.jpg" alt="Tushar's Banner" width="100%" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer+·+React+Expert;Open+Source+Enthusiast;Building+Clean,+Minimal+Web+Apps;TypeScript+&++Next.js+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer+·+React+Expert;Open+Source+Enthusiast;TypeScript+&++Next.js+Developer)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://github.com/itsonlyTushar">
