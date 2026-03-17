@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Tushar 👋</h1>
 
 <p align="center">
-  Self-taught Frontend Developer &nbsp;·&nbsp; React · TypeScript · Next.js
+  Frontend Developer &nbsp;·&nbsp; React · TypeScript · Next.js
 </p>
 
 ---
