@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/itsonlyTushar/itsonlyTushar/main/banner.png" alt="Premium Banner" width="100%" />
 
   # Hey, I'm Tushar 👋
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer+·+React+Expert;Open+Source+Enthusiast;Building+Clean,+Minimal+Web+Apps;TypeScript+&++Next.js+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer+·+React;Open+Source;Building+Clean,+Minimal+Web+Apps;TypeScript+&++Next.js+Developer)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://github.com/itsonlyTushar">
