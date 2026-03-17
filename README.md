@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/itsonlyTushar/itsonlyTushar/main/banner.png" alt="Premium Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:0077B5&height=300&section=header&text=Hey,%20I'm%20Tushar&fontSize=70&fontAlignY=35&animation=fadeIn" alt="Tushar Banner" width="100%" />
 
-  # Hey, I'm Tushar 👋
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer+·+React;Open+Source;Building+Clean,+Minimal+Web+Apps;TypeScript+&++Next.js+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer+·+React+Expert;Open+Source+Enthusiast;Building+Clean,+Minimal+Web+Apps;TypeScript+&++Next.js+Developer)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://github.com/itsonlyTushar">
@@ -36,9 +35,9 @@ I'm a self-taught **Frontend Developer** passionate about building clean, minima
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **🚀 Fastmenu** | QR-based food ordering system. Started as a side project; a client bought it, and I scaled it with real-time management. | React, Next.js, Firebase | [Private/Scale] |
-| **🔍 Open Radar** | Tool to find beginner-friendly open-source repos. Built for devs who want to start their OS journey. | Next.js, GitHub API | [repo](https://github.com/itsonlyTushar/open-radar) |
-| **📑 ResuMate** | Resume builder with live previews, customizable templates, and PDF export. | React, Redux, Appwrite | [repo](https://github.com/itsonlyTushar/ResuMate) |
+| **Fastmenu** | QR-based food ordering system. Started as a side project; a client bought it, and I scaled it with real-time management. | React, Next.js, Firebase | [Private] |
+| **Open Radar** | Tool to find beginner-friendly open-source repos. Built for devs who want to start their OS journey. | Next.js, GitHub API | [repo](https://github.com/itsonlyTushar/open-radar) |
+| **ResuMate** | Resume builder with live previews, customizable templates, and PDF export. | React, Redux, Appwrite | [repo](https://github.com/itsonlyTushar/ResuMate) |
 
 ---
 
