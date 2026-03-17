@@ -1,44 +1,67 @@
-<h1 align="center">Hey, I'm Tushar 👋</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/itsonlyTushar/itsonlyTushar/main/banner.png" alt="Premium Banner" width="100%" />
 
-<p align="center">
-  Frontend Developer &nbsp;·&nbsp; React · TypeScript · Next.js
-</p>
+  # Hey, I'm Tushar 👋
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer+·+React+Expert;Open+Source+Enthusiast;Building+Clean,+Minimal+Web+Apps;TypeScript+&++Next.js+Developer)](https://git.io/typing-svg)
+
+  <p align="center">
+    <a href="https://github.com/itsonlyTushar">
+      <img src="https://img.shields.io/github/followers/itsonlyTushar?label=Follow&style=for-the-badge&color=24292e&logo=github" alt="GitHub Followers" />
+    </a>
+    <a href="https://linkedin.com/in/itsonlyTushar">
+      <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### About Me
+### 📖 About Me
+I'm a self-taught **Frontend Developer** passionate about building clean, minimal web applications that are both easy to use and nice to look at. I care a lot about the craft—**readable code**, **thoughtful UI**, and shipping things that actually work.
 
-I'm a self-taught frontend developer passionate about building clean, minimal web applications that are both easy to use and nice to look at. I care a lot about the craft readable code, thoughtful UI, and shipping things that actually work.
+- 🛠 Currently working with: **React**, **TypeScript**, **Next.js**, **Tailwind CSS**, **Firebase**, and **Supabase**.
+- 🚀 I love contributing to open source and helping other developers get started.
+- 🎨 Aiming for pixel-perfect designs with a modular, scalable architecture.
 
-Currently working with **React**, **TypeScript**, **Next.js**, **Tailwind CSS**, and **Firebase**, **Supabase**.
+---
+
+### 💻 Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,firebase,supabase,redux,html,css,js,git,github,vscode,appwrite,figma" alt="Tech Stack Icons" />
+</p>
 
 ---
 
 ### 🔨 Things I've Built
 
-- **[Fastmenu](https://fastmenu.it)** — QR-based food ordering system for restaurants. Started as a side project, a client found it on GitHub, bought it, and hired me to scale it, added table reservations, real-time table management, and Stripe Connect.
-
-- **[Open Radar](https://openradar.live)** · [repo](https://github.com/itsonlyTushar/open-radar) — Find beginner-friendly open-source repos and start contributing. Built for devs who want to get into open source but don't know where to start.
-
-- **[ResuMate](https://resumate.shop)** · [repo](https://github.com/itsonlyTushar/Resume_Builder) — Resume builder with live previews, customizable templates, and PDF export. Built with React + Redux + Appwrite.
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **🚀 Fastmenu** | QR-based food ordering system. Started as a side project; a client bought it, and I scaled it with real-time management. | React, Next.js, Firebase | [Private/Scale] |
+| **🔍 Open Radar** | Tool to find beginner-friendly open-source repos. Built for devs who want to start their OS journey. | Next.js, GitHub API | [repo](https://github.com/itsonlyTushar/open-radar) |
+| **📑 ResuMate** | Resume builder with live previews, customizable templates, and PDF export. | React, Redux, Appwrite | [repo](https://github.com/itsonlyTushar/ResuMate) |
 
 ---
 
-### 🌍 Connect
-
-<p align="left">
-  <a href="https://tusharsoni.site">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tushar-soni-b0426022b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/ts28_7">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/tushar_28.7/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsonlyTushar&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsonlyTushar&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=itsonlyTushar&color=gray)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsonlyTushar&theme=tokyonight" alt="GitHub Streak" width="100%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/itsonlyTushar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/itsonlyTushar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:tushargsoni17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsonlyTushar&color=blue&style=plastic" alt="Visitor Count" />
+</p>
+>
