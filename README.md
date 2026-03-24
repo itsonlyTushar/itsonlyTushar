@@ -52,7 +52,7 @@ I'm a self-taught **Frontend Developer** passionate about building clean, minima
 ### 📫 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/itsonlyTushar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/itsonlyTushar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://x.com/ts28_7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:tushargsoni17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
