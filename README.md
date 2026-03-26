@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer+·+React+Expert;Open+Source+Enthusiast;TypeScript+%26+Next.js+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend+Developer+·+React+;Open+Source+Enthusiast;TypeScript+%26+Next.js+Developer)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/itsonlyTushar">
