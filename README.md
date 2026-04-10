@@ -45,10 +45,7 @@ I'm a self-taught **Frontend Developer** passionate about building clean, minima
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsonlyTushar&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsonlyTushar&layout=compact&theme=tokyonight" width="48%" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=itsonlyTushar&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
