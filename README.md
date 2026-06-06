@@ -3,6 +3,8 @@
 <!-- INTRO -->
 <br/>
 
+### Tushar Soni
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+products+that+ship+to+production.;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Turning+ideas+into+real+web+applications." alt="Typing SVG" />
 
 <br/><br/>
