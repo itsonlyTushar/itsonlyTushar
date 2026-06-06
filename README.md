@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tushar%20Soni&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=20&descColor=a78bfa&animation=fadeIn" />
-
 <!-- INTRO -->
 <br/>
 
@@ -151,7 +148,3 @@ Full-featured resume builder with customizable templates, live preview, and PDF 
 
 <br/><br/>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-</div>
