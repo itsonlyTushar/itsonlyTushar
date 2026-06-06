@@ -1,91 +1,83 @@
 <div align="center">
 
-<a href="https://github.com/itsonlyTushar">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" width="100%" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Frontend+Developer+%C2%B7+React+%C2%B7+TypeScript;Building+clean+UIs+that+actually+work;Next.js+%7C+Tailwind+%7C+Firebase+%7C+Supabase;Open+Source+%E2%86%92+always+learning)](https://git.io/typing-svg)
+# Tushar Soni
 
-</div>
+**Frontend Developer · React · Next.js · TypeScript**
 
----
-
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=itsonlyTushar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=94a3b8&rank_icon=github" />
-
-### `whoami`
-
-Self-taught **Frontend Developer** who gives a damn about the craft — readable code, thoughtful UI, things that ship and stay shipped.
-
-- 🛠 **Stack:** React · TypeScript · Next.js · Tailwind · Firebase · Supabase
-- 🌱 **Currently:** Scaling Fastmenu + exploring backend patterns
-- 🚀 **Open source:** actively contributing and helping others get started
-- 🎯 **Goal:** pixel-perfect UIs with modular, maintainable architecture
-- 📬 **Reach me:** [tushargsoni17@gmail.com](mailto:tushargsoni17@gmail.com)
-
-<br clear="right"/>
-
----
-
-### `// tech stack`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,firebase,supabase,redux,materialui,html,css,js,git,github&perline=13" />
-</p>
-
----
-
-### `// shipped`
-
-| Project | What it does | Stack | Link |
-|---|---|---|---|
-| **🍽 Fastmenu** | QR-based food ordering system. Side project → client bought it → scaled with real-time management | `React` `Next.js` `Firebase` | Private |
-| **📡 Open Radar** | Finds beginner-friendly OSS repos. Built for devs who actually want to start contributing | `Next.js` `GitHub API` | [→ Repo](https://github.com/itsonlyTushar/open-radar) |
-| **📄 ResuMate** | Resume builder with live previews, custom templates, PDF export | `React` `Redux` `Appwrite` | [→ Repo](https://github.com/itsonlyTushar/ResuMate) |
-
----
-
-### `// activity`
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=itsonlyTushar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=94a3b8&dates=64748b)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsonlyTushar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=94a3b8)](https://github.com/itsonlyTushar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tushargsoni17@gmail.com)
 
 </div>
 
 ---
 
-### `// connect`
+## About
 
-<p align="left">
-  <a href="https://linkedin.com/in/itsonlyTushar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/ts28_7">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:tushargsoni17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/itsonlyTushar">
-    <img src="https://img.shields.io/github/followers/itsonlyTushar?label=Follow&style=for-the-badge&color=4ade80&labelColor=0d1117&logo=github" />
-  </a>
-</p>
+Frontend developer focused on shipping production-grade web applications. I build things end-to-end — from component architecture to payment integrations — and care deeply about maintainable code and real-world usability.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itsonlyTushar&color=4ade80&style=flat-square&label=profile+views" />
-</p>
+Currently wrapping up an MS in Computer Science (Cloud Computing + AI System Design) at Woolf University.
+
+One of my side projects got picked up by a client off GitHub and turned into a full Dining OS product with Stripe Connect and real-time table management. That's the kind of work I do.
+
+---
+
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,firebase,supabase,redux,materialui,html,css,js,git,github&perline=13" />
+
+**State & Data:** Zustand · TanStack Query · Redux  
+**Backend & DB:** Node.js · Express.js · PostgreSQL · MongoDB · Prisma  
+**Cloud & Auth:** Supabase · Appwrite · Firebase  
+**Payments:** Stripe · Stripe Connect  
+**Testing:** Vitest · Cypress · Jest  
+**Deploy:** Vercel · Vercel Edge Functions
+
+---
+
+## Work
+
+**Freelance Software Developer — Fastmenu** *(Jul 2025 – Mar 2026)*
+
+Built a Dining OS platform from scratch — started as a basic digital menu, evolved into a full product. Handled everything: component architecture with React + Tailwind + MUI, server-state with TanStack Query, client-state with Zustand, Stripe Connect for vendor onboarding and payments, and Google APIs for translation and location.
+
+---
+
+## Projects
+
+### [Order Ease](https://orderease.food)
+QR-based food ordering system for restaurants. Role-based access control for staff, managers, and customers. The repo that got me hired.  
+`React` `Redux` `Material UI` `Firebase`
+
+---
+
+### [Open Radar](https://openradar.live)
+Discovery platform for open-source contributors. Surfaces good-first issues and curates trending AI repositories. GitHub API credentials secured server-side via Vercel Edge Functions.  
+`React` `Tailwind CSS` `GitHub API` `Vercel Edge Functions`
+
+---
+
+### [Resumate](https://resumate.shop)
+Full-featured resume builder with customizable templates, live preview, and PDF export. Gemini API integration for resume insights.  
+`React` `Redux` `Appwrite` `Firebase Auth` `Material UI`
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/itsonlyTushar">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%" />
-  </a>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" />
+
 </div>
