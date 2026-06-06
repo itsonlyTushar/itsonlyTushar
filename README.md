@@ -40,37 +40,9 @@ I care deeply about clean, maintainable UI code and server-state architecture th
 
 ### Tech Stack
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nextjs,nodejs,express,redux,prisma,postgres,docker,supabase,typescript" height="42" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" height="42" />
-
-**Frameworks & Runtime**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" height="42" />
-
-**State, Forms & Data**
-
-<img src="https://skillicons.dev/icons?i=redux,prisma,postgres" height="42" />
-
-&nbsp;<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" height="28" />
-
-**UI & Design**
-
-<img src="https://skillicons.dev/icons?i=tailwind,materialui" height="42" />
-
-&nbsp;<img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="28" />
-
-**Cloud & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=vercel,docker,firebase,supabase" height="42" />
-
-&nbsp;<img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black" height="28" />&nbsp;<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="28" />
-
-**Testing & Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,vite" height="42" />
-
-&nbsp;<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" height="28" />&nbsp;<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="28" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel" height="42" />
 
 ---
 
@@ -147,11 +119,11 @@ Full-featured resume builder with customizable templates, live preview, and PDF 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharsoni17&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsonlyTushar&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsoni17&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsonlyTushar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -159,7 +131,7 @@ Full-featured resume builder with customizable templates, live preview, and PDF 
 
 <!-- ACTIVITY GRAPH -->
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tusharsoni17&theme=tokyo-night&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true" alt="Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsonlyTushar&theme=tokyo-night&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true" alt="Activity Graph"/>
 
 ---
 
