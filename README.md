@@ -134,19 +134,5 @@ Full-featured resume builder with customizable templates, live preview, and PDF 
 
 ---
 
-<!-- CONNECT -->
-
-### Connect
-
-<a href="mailto:tushargsoni17@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=0d0d1a" />
-</a>&nbsp;
-<a href="https://linkedin.com/in/tusharsoni17" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0d0d1a" />
-</a>&nbsp;
-<a href="https://github.com/tusharsoni17" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d0d1a" />
-</a>
-
 <br/><br/>
 
