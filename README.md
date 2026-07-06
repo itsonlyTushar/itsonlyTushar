@@ -48,14 +48,30 @@
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=tusharsoni17&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+## 📊 GitHub Analytics
 
-<br/><br/>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsoni17&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages" />
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tusharsoni17&theme=discord&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 
----
+  <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tusharsoni17&theme=github-dark&hide_border=true" alt="Activity Graph"/>
+  <!-- GitHub Streak -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tusharsoni17&theme=midnight-purple&hide_border=true)](https://github.com/tusharsoni17)
+
+  <br/><br/>
+
+  <!-- Top Languages -->
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsoni17&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8)](https://github.com/tusharsoni17)
+
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharsoni17&theme=github-dark&hide_border=true)](https://github.com/tusharsoni17)
+
+</div>
 
 </div>
