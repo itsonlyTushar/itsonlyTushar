@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td align="center" width="45%">
-      ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=itsonlyTushar&show_icons=true&theme=radical)
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=itsonlyTushar&show_icons=true&theme=radical" />
     </td>
   </tr>
 </table>
