@@ -40,7 +40,7 @@
 
 | Project | Description |
 | :--- | :--- |
-| **Complex — Multi-Tenant Food Court SaaS** | Multi-tenant SaaS platform for managing food courts, QR ordering, vendor dashboards and Stripe payments.<br><br>`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Stripe`<br><br>Live: https://complex-omega.vercel.app |
+| **Complex — Multi-Tenant Food Court SaaS** | Multi-tenant SaaS platform for managing food courts, QR ordering, vendor dashboards and Stripe payments.<br><br>`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Stripe` |
 | **Fastmenu — Dining OS Platform** | Freelance production platform with real-time table management, Stripe Connect and Google APIs.<br><br>`React` `TanStack Query` `Zustand` `Stripe Connect` `Tailwind` |
 | **Order Ease — QR Food Ordering** | QR ordering system that led to a client engagement.<br><br>`React` `Redux` `Firebase` `Material UI` |
 | **Open Radar — OSS Discovery Platform** | Discover GitHub issues and AI repositories.<br><br>`React` `Tailwind` `GitHub API` `Vercel Edge Functions` |
@@ -50,6 +50,5 @@
 
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=itsonlyTushar&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itsonlyTushar&layout=compact&theme=radical)
 
 </div>
