@@ -42,7 +42,7 @@
 | :--- | :--- |
 | **Complex — Multi-Tenant Food Court SaaS** | Multi-tenant SaaS platform for managing food courts, QR ordering, vendor dashboards and Stripe payments.<br><br>`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Stripe` |
 | **Fastmenu — Dining OS Platform** | Freelance production platform with real-time table management, Stripe Connect and Google APIs.<br><br>`React` `TanStack Query` `Zustand` `Stripe Connect` `Tailwind` |
-| **Order Ease — QR Food Ordering** | QR ordering system that led to a client engagement.<br><br>`React` `Redux` `Firebase` `Material UI` |
+| **Dine Easy — QR Food Ordering** | QR ordering system that led to a client engagement.<br><br>`React` `Redux` `Firebase` `Material UI` |
 | **Open Radar — OSS Discovery Platform** | Discover GitHub issues and AI repositories.<br><br>`React` `Tailwind` `GitHub API` `Vercel Edge Functions` |
 | **xLPA — Resume Builder** | Resume builder with PDF export and Gemini AI insights.<br><br>`React` `Redux` `Appwrite` `Firebase Auth` `Gemini API` |
 
